@@ -1,0 +1,21 @@
+HU: 39173
+https://dev.azure.com/DataToolsSA/Guayaquil/_workitems/edit/39173/
+
+Cordial saludo, se da solución a la HU 39173
+HU-CIR-DAT-EMB-BPI Bloqueo de pago por embargo origen de impugnación coactivos con embargos sin fallo.
+Se realizan cambios en los siguientes artefactos de SOGIT.
+Circulemos2Base:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_git/Circulemos2Base/pullrequest/15855
+Impugnación:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_git/Impugnacion/pullrequest/15853
+Coactivo:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_git/Coactivo/pullrequest/15854
+Circulemos2
+      https://dev.azure.com/DataToolsSA/Guayaquil/_git/Circulemos2/pullrequest/15856
+
+También se hace modificación en base de datos
+se ejecutan estos scripts en validación circulemos2:
+      http://c2svn.datatools.com.co/svn/Circulemos2/Circulemos2Guayaquil/branches/linea-base/Base_de_Datos/39173%20Bloqueo%20de%20pago%20por%20embargo%20origen%20de%20impugnacion%20coactivos%20con%20embargos%20sin%20fallo/
+
+Gracias por su atención.
+

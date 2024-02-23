@@ -1,0 +1,23 @@
+HU:37169
+https://dev.azure.com/DataToolsSA/Guayaquil/_workitems/edit/37169/
+
+
+Se da solución a la HU 37169 Registro Impugnación de coactivos con embargos
+A través de la orden:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_workitems/edit/37169/
+Se modifican los siguientes artefactos:
+Sogit:
+Proceso:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_git/Proceso/pullrequest/15717
+Circulemos2:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_git/Circulemos2/pullrequest/15721
+Impugnación:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_git/Impugnacion/pullrequest/15718
+Coactivo:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_git/Coactivo/pullrequest/15720
+
+Scripts Sql svn:
+      Circulemos2:
+            http://c2svn.datatools.com.co/svn/Circulemos2/Circulemos2Guayaquil/branches/linea-base/Base_de_Datos/37169%20Registro%20Impugnaci%C3%B3n%20de%20coactivos%20con%20embargos/1_C2_SQL_DATA.sql.sql
+
+Gracias por su atención.

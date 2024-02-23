@@ -1,0 +1,35 @@
+Url HU : https://dev.azure.com/DataToolsSA/Guayaquil/_workitems/edit/38887/
+Copia del correo : 
+Estimados
+
+Se envía el desarrollo para el User Story 38887: HU_CIRC2_DAT_EMB_CAP_Cargar archivo prohibición enajenar
+
+Esto a través de la siguiente orden
+https://dev.azure.com/DataToolsSA/Guayaquil/_workitems/edit/38887/
+
+Los artefactos afectados son:
+    Sogit
+        Circulemos2
+        Circulemos2Base
+        Coactivo
+        Financiación
+        Proceso
+        Utilidades
+        
+Pull Requests
+https://dev.azure.com/DataToolsSA/Guayaquil/_git/Circulemos2/pullrequest/15482
+https://dev.azure.com/DataToolsSA/Guayaquil/_git/Circulemos2Base/pullrequest/15483
+https://dev.azure.com/DataToolsSA/Guayaquil/_git/Coactivo/pullrequest/15484
+https://dev.azure.com/DataToolsSA/Guayaquil/_git/Financiacion/pullrequest/15485
+https://dev.azure.com/DataToolsSA/Guayaquil/_git/Proceso/pullrequest/15486
+https://dev.azure.com/DataToolsSA/Guayaquil/_git/Utilidades/pullrequest/15487
+
+Base: circulemos2
+Scripts de base de datos
+http://c2svn.datatools.com.co/svn/Circulemos2/Circulemos2Guayaquil/branches/linea-base/Base_de_Datos/38887_HU_CIRC2_DAT_EMB_CAP_Cargar_archivo_prohibicion_enajenar/
+
+Agradezco la atención prestada.
+
+
+Cordialmente,
+Nicolai Enciso

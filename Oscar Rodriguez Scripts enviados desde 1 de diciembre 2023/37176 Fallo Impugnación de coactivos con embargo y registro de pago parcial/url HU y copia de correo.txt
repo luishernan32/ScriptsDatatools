@@ -1,0 +1,21 @@
+HU: 37176
+https://dev.azure.com/DataToolsSA/Guayaquil/_workitems/edit/37176/
+
+Se da solución a la HU 37176 a través de la orden:
+      https://dev.azure.com/DataToolsSA/Guayaquil/_workitems/edit/37176/
+Se modifican los siguientes artefactos 
+Sogit:
+      Proceso:
+            https://dev.azure.com/DataToolsSA/Guayaquil/_git/Proceso/pullrequest/15722
+      Impugnacion:
+            https://dev.azure.com/DataToolsSA/Guayaquil/_git/Impugnacion/pullrequest/15723
+      Coactivo:
+            https://dev.azure.com/DataToolsSA/Guayaquil/_git/Coactivo/pullrequest/15724
+      Circulemos2:
+            https://dev.azure.com/DataToolsSA/Guayaquil/_git/Circulemos2/pullrequest/15725
+      IntegracionDocumentos:
+            https://dev.azure.com/DataToolsSA/Guayaquil/_git/IntegracionDocumentos/pullrequest/15726
+Scripts (Ya ejecutados en migración):
+      http://c2svn.datatools.com.co/svn/Circulemos2/Circulemos2Guayaquil/branches/linea-base/Base_de_Datos/37176%20Fallo%20Impugnaci%C3%B3n%20de%20coactivos%20con%20embargo%20y%20registro%20de%20pago%20parcial/1_C2_SQL_DATA.sql.sql
+
+Gracias por su atención.
